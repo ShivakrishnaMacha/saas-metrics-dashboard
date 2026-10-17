@@ -13,7 +13,7 @@ cohort retention heatmap, churn drilldown, and a labelled forecast.
 
 ## Live demo
 
-🚀 **Live demo:** `https://<streamlit-app-url>` *(placeholder — deployment URL goes here)*
+🚀 **Live demo:** https://saas-metrics-dashboard.streamlit.app/
 
 ## Features
 
