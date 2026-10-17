@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+# Build artifacts (regenerated deterministically; app rebuilds on first run)
+data/*.duckdb
+data/*.parquet
